@@ -1,2 +1,2 @@
-#This is a Intro readme.
+# Introduction to GitHub
 **This text is bold**\
